@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001681847151",
+    "project_id": "recipefood-eb6f5",
+    "storage_bucket": "recipefood-eb6f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001681847151:android:bfc85839944eb6a5511e9a",
+        "android_client_info": {
+          "package_name": "com.example.recipe_makan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7YH1WZKIGfmeHHftzoZGulZC-eMBhydQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
